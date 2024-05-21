@@ -1,5 +1,5 @@
 # Web3 Developer & Independent Security Researcher
-
+![Web3 Developer & Independent Security Researcher](./web3-security-researcher.jpg)
 ## About me
 An Innovative Blockchain Developer with 4+ years of experience in building secure and scalable decentralized applications (dApps) on Ethereum and Layer
 2 networks. Expertise in smart contract development using Solidity, with a focus on DeFi, DEX, GameFi, and NFT platforms. Extensive knowledge in smart contracts, consensus algorithms, and data structures. Adept at creating and
