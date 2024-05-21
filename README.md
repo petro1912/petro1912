@@ -16,10 +16,10 @@ Proven ability to deliver high-quality code from ideation to deployment.
 - Web Skills: Node.js, React/Next.js, Vue/Nuxt.js, Python/Django
 
 ## Achievments
-[code4rena audit contests](https://code4rena.com/@petro_1912)
-[sherlock audit contests](https://audits.sherlock.xyz/watson/petro1912)
+- [code4rena audit contests](https://code4rena.com/@petro_1912)
+- [sherlock audit contests](https://audits.sherlock.xyz/watson/petro1912)
 
-Protocols covered by me
+  #### Protocols covered by me
 
 - Panoptic - Found 1 High-Risk Bug
 - AI Arena - Found 5 High-Risk, 1 Medium-Risk Bugs
