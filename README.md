@@ -20,7 +20,7 @@ Proven ability to deliver high-quality code from ideation to deployment.
 - [sherlock audit contests](https://audits.sherlock.xyz/watson/petro1912)
 
   #### Protocols covered by me
-
+- DYAD - Found 2 High-Risk Bug
 - Panoptic - Found 1 High-Risk Bug
 - AI Arena - Found 5 High-Risk, 1 Medium-Risk Bugs
 - Althea Liquid Infrastructure - Found 1 High-Risk Bug
