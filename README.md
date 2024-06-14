@@ -1,4 +1,4 @@
-#ZK Sync Airdrop
+# ZK Sync Airdrop
 Petro1912 is a security researcher in blockchains and web3 security domain. He is eligible for ZKSync airdrop
 
 # Web3 Developer & Independent Security Researcher
