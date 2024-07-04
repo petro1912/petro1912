@@ -13,7 +13,7 @@ Proven ability to deliver high-quality code from ideation to deployment.
 - Smart Contract Development - Solidity & Yul
 - Chains - Ethereum, Arbitrum, Base, Optimism, Polygon PoS, Polygon zkEVM
 - DApps: DEX, DeFi, GameFi, NFT Marketplace
-- Testing Env: Hardhat, Foundry, Alchemy, Infura, Scan APIs
+- Testing Env: Hardhat, Foundry, Truffle, Alchemy, Infura, Scan APIs
 - Libraries: Openzepplin, Solmate, UniswapV2, UniswapV3,
 - Frontend: Javascript/Typescript, web3.js, ethers.js
 - Web Skills: Node.js, React/Next.js, Vue/Nuxt.js, Python/Django
@@ -23,6 +23,8 @@ Proven ability to deliver high-quality code from ideation to deployment.
 - [sherlock audit contests](https://audits.sherlock.xyz/watson/petro1912)
 
   #### Protocols covered by me
+- Noya - Found 2 High-Rish Bugs, 1 Medium Bug
+- Gamma - Found 1 Medium-Risk Bugs (🥉Bronze Medal)
 - DYAD - Found 2 High-Risk Bug
 - Panoptic - Found 1 High-Risk Bug
 - AI Arena - Found 5 High-Risk, 1 Medium-Risk Bugs
